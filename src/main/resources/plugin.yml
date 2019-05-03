@@ -1,0 +1,8 @@
+name: AdminList
+main: nyanguymf.gruemc.adminlist.AdminListPlugin
+version: ${project.version}
+author: NyanGuyMF
+
+commands:
+  adminlist:
+    aliases: ['al']
